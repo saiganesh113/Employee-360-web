@@ -1,0 +1,39 @@
+.container-fluid {
+  padding: 20px;
+  border:1px solid black;
+  background-color: #f1f1f1;
+}
+
+.scrollable-content {
+  overflow-y: auto;
+  max-height: 78vh;
+}
+
+.details {
+  background-color: #fff;
+  padding: 20px;
+  margin-right: 100px;
+  border:1px solid black;
+}
+
+.Performancetable {
+  background-color: #fff;
+  padding: 20px;
+  margin-right: 100px;
+  border:1px solid black;
+}
+
+.employment_history {
+  background-color: #fff;
+  padding: 20px;
+  margin-right: 100px;
+  border:1px solid black;
+}
+
+.calender {
+  background-color: #fff;
+  padding: 20px;
+  margin-right: 100px;
+  border:1px solid black;
+}
+

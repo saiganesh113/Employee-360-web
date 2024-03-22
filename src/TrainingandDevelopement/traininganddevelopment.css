@@ -1,0 +1,60 @@
+/* traininganddevelopment.css */
+.TandD{
+  padding: 20px;
+    background-color: #f1f1f1;
+    border: 1px solid black;
+}
+.app {
+    margin: 10px;
+    background-color: #f1f1f1;
+    border-radius: 8px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin: 0 0 20px;
+  }
+  
+  .course {
+    background-color: #fff;
+    border: 1px solid black;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 8px;
+  }
+  
+  .course h2 {
+    font-size: 20px;
+    margin: 0 0 10px;
+  }
+  
+  .course p {
+    margin: 0 0 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    margin: 5px 0;
+    font-size: 16px;
+  }
+  
+  .video-player {
+    margin: 20px 0;
+  }
+  
+  video {
+    width: 100%;
+    max-width: 800px;
+  }
+  

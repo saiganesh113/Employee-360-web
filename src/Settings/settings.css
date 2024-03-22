@@ -1,0 +1,76 @@
+.ss{
+    padding: 10px;
+    background-color: #f1f1f1;
+    border: 1px solid black;
+}
+
+.settings-container {
+    max-width: 1025px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f1f1f1;
+  }
+  
+  .settings-container.dark-mode {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .settings-options {
+    margin-top: 30px;
+  }
+  
+  .settings-option {
+    margin-bottom: 15px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  label {
+    margin-right: 10px;
+  }
+  
+  select {
+    padding: 10px;
+    font-size: 14px;
+  }
+  
+  input[type="checkbox"] {
+    margin-left: 10px;
+  }
+  /* Add this to your settings.css file */
+
+.more-options {
+    margin-top: 20px;
+  }
+  
+  .more-option {
+    margin-bottom: 10px;
+  }
+  
+  .more-option button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .more-option button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Add more styles as needed */
+  
+  
+  
+  
